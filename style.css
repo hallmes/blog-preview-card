@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5, h6, p{
     transition: box-shadow .3s;
     max-width: 384px;
     margin: 0 auto;
+    margin-top: 219px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     height: 522px;
